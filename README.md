@@ -18,7 +18,7 @@ No clue what the `ngx` command line tool is? Learn more about [AngularJS Express
 
 ## How to use
 
-After installing the component, edit `app.run.register-ui-router-state-change-error-handler.js` and edit your custom logic.
+After installing the component, edit [`app.run.register-ui-router-state-change-error-handler.js`](ngx/_build/app.run.register-ui-router-state-change-error-handler.js) and add your custom logic.
 
 ## License
 
